@@ -1,195 +1,137 @@
-<h1 align="center">Hi 👋, I'm Jaswant Singh</h1>
-<h3 align="center">🚀 Passionate Developer | MERN Stack Learner | DSA Enthusiast | AI Project Builder</h3>
+🚀 Jaswant Singh — Developer Profile
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Jaswant+Singh;MERN+Stack+Developer+in+Progress;DSA+Learner+%7C+JavaScript+Enthusiast;Building+Modern+Web+Applications;Exploring+AI+and+Automation" /> </p>
+👨‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+modern+interactive+web+applications;MERN+Stack+Developer+in+progress;DSA+Learner+%7C+React+Enthusiast+%7C+AI+Explorer;Turning+ideas+into+real+digital+products" alt="Typing SVG" />
-</p>
+I’m Jaswant Singh, a passionate developer focused on building modern, interactive web applications.
 
-<p align="center">
-  <a href="https://1my-1portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-0A66C2?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/jaswantt-singh">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20Source-Learning%20Journey-success?style=for-the-badge" />
-</p>
+🎓 Second-year student
+💻 Learning Data Structures & Algorithms, JavaScript, React, and MERN Stack
+🤖 Interested in AI applications and automation tools
 
----
+I enjoy building:
 
-## 👨‍💻 About Me
+⚛️ Full-stack web apps
 
-I am **Jaswant Singh**, a passionate developer and technology enthusiast focused on building **modern, interactive web applications**.
+🎨 Modern UI interfaces
 
-🎓 Currently a **Second-Year Student**  
-📚 Actively learning **Data Structures & Algorithms, JavaScript, React, and MERN Stack Development**  
-💡 Interested in **AI-powered apps, automation tools, scalable web platforms, and modern UI experiences**
+🧠 AI-powered tools
 
-My portfolio showcases projects that combine:
+🚀 Real-world projects
 
-- ✨ Clean design
-- ⚙️ Practical functionality
-- 🌍 Real-world problem solving
-- 🤖 AI integration
-- 📱 Responsive modern interfaces
+My goal is to become a strong full-stack developer who builds impactful digital products.
 
-I enjoy building projects ranging from **utility apps like password generators** to **AI-powered voice-enabled assistants**.
+🌐 Portfolio
 
-This portfolio represents not just my projects, but my **growth as a developer, curiosity for technology, and commitment to building impactful digital solutions**.
+🚀 Live Website
 
----
+👉 https://1my-1portfolio.netlify.app/
 
-## 🌐 Portfolio Preview
+🛠 Tech Stack
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+Database
+<p> <img src="https://skillicons.dev/icons?i=mongodb" /> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,postman" /> </p>
+🚀 Featured Projects
+🤖 CerateAI — Voice AI Assistant
 
-🔗 **Live Website:**  
-**[1my-1portfolio.netlify.app](https://1my-1portfolio.netlify.app/)**
+A voice-enabled AI assistant web app where users can create their own assistant, talk with wake-word commands, and receive spoken responses.
 
----
+Features
 
-## 🛠️ Tech Stack
+Voice commands
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind" />
-</p>
+AI responses using Gemini
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+Assistant customization
 
-### 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+Browser automation actions
 
-### ☁️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,cloudinary,postman" />
-</p>
+Conversation memory
 
-### 🤖 Other Interests / Exploration
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" />
-</p>
+Tech
 
----
+React • Node • Express • MongoDB • Gemini API
 
-## 🚀 Featured Projects
+🔐 Password Generator
 
-### 🔐 Password Generator
-A utility web application built to generate strong and secure passwords instantly.
+A utility web app that generates secure random passwords with customizable settings.
 
-**Highlights**
-- Random secure password logic
-- Copy-to-clipboard support
-- Interactive UI
-- Useful real-world security tool
+Features
 
-**Tech Used:** JavaScript, Randomization Logic, Interactive UI
+Random secure generation
 
-🔗 **Live Demo:** [Password Generator](https://1passwordgenertor.netlify.app/)
+Copy-to-clipboard
 
----
+Interactive UI
 
-### 🤖 CerateAI — Voice Enabled AI Assistant
-A full-stack voice-enabled AI assistant web app where users can create their own personalized assistant, talk using wake-word activation, and receive spoken responses in real time.
+🎮 Tic Tac Toe Game
 
-**Highlights**
-- User signup/login
-- Custom assistant name and image
-- Voice recognition and wake-word handling
-- Text-to-speech responses
-- Gemini-powered AI replies
-- Browser actions like YouTube, Google, Maps, Weather, GitHub, LinkedIn, Gmail, and more
-- User memory and contextual conversation handling
+A classic interactive JavaScript game with win detection, draw logic, and dynamic UI.
 
-**Tech Used:** React, Vite, Node.js, Express, MongoDB, Gemini API, Cloudinary, Web Speech API, JWT, Cookies
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaswantt-singh&show_icons=true&theme=tokyonight&border_radius=12" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswantt-singh&layout=compact&theme=tokyonight&border_radius=12" /> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswantt-singh&theme=tokyonight&border_radius=12" /> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaswantt-singh&theme=tokyo-night" /> </p>
+🐍 Contribution Snake
 
----
+This animation shows how my contributions move across GitHub.
 
-## 📚 What I’m Learning
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+👀 Profile Views
+<p> <img src="https://komarev.com/ghpvc/?username=jaswantt-singh&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+📚 Currently Learning
 
-- 🧠 Data Structures & Algorithms
-- ⚛️ Advanced React concepts
-- 🌐 Full-stack MERN development
-- 🤖 AI app integration
-- 🔐 Authentication & protected routes
-- 📦 API handling and backend architecture
+Data Structures & Algorithms
 
----
+Advanced React
 
-## 📈 GitHub Stats
+MERN Stack Development
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaswantt-singh&show_icons=true&theme=tokyonight&border_radius=12" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswantt-singh&layout=compact&theme=tokyonight&border_radius=12" />
-</p>
+AI-powered web applications
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswantt-singh&theme=tokyonight&border_radius=12" />
-</p>
+🎯 Goals
 
----
+✔ Become a strong full-stack developer
+✔ Build AI-powered products
+✔ Master DSA & problem solving
+✔ Contribute to open-source
 
-## 🎯 Goals
+📬 Connect With Me
+<p> <a href="https://github.com/jaswantt-singh"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"> </a> </p>
+⭐ Fun Fact
 
-- ✅ Become a strong **full-stack developer**
-- ✅ Master **DSA and problem solving**
-- ✅ Build **AI-powered real-world products**
-- ✅ Create projects with **premium UI/UX**
-- ✅ Keep improving through consistency and practice
+💡 I enjoy turning ideas into real products with clean UI and powerful logic.
 
----
+⚡ Quote
 
-## 🏆 Portfolio Highlights
+“Consistency in learning and building projects creates real developers.”
 
-✨ Modern responsive design  
-✨ Real-world projects  
-✨ Interactive UI components  
-✨ Strong learning mindset  
-✨ Focus on both logic and user experience  
+Important step (for snake animation)
 
----
+Create this file in your repo:
 
-## 📬 Connect With Me
+.github/workflows/snake.yml
 
-<p align="left">
-  <a href="https://github.com/jaswantt-singh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://1my-1portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+Then add:
 
----
+name: generate snake
 
-## ⭐ Support
+on:
+  schedule:
+    - cron: "0 */24 * * *"
 
-If you like my work or find my projects interesting, consider giving this repository a **star ⭐**.
-
----
-
-## 💭 Developer Quote
-
-> **“I don’t just build projects to make them work — I build them to learn, grow, and create meaningful user experiences.”**
-
----
-
-## 🔥 Built With Passion Using
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: jaswantt-singh
+          outputs: |
+            dist/github-contribution-grid-snake.svg
